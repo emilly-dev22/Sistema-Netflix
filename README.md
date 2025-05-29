@@ -52,3 +52,9 @@ pip install -r requirements.txt
 
 4.Execute o sistema
 python main.py
+
+
+
+integrantes
+emilly silva eduardo pereira
+gabrielly soares marinho
